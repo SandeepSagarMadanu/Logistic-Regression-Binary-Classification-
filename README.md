@@ -75,12 +75,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 🔭 Future Work
 - Deploy model using Flask or Streamlit for HR departments
-
 - Implement deep learning or ensemble models
-
 - Integrate real-time HR data streams
+
 ## 🙏 Acknowledgments
 - Dataset often used in ML tutorials and HR analytics case studies
-
 - Scikit-learn documentation and open-source contributors
 
