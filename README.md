@@ -79,7 +79,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Implement deep learning or ensemble models
 
 - Integrate real-time HR data streams
-
 ## 🙏 Acknowledgments
 - Dataset often used in ML tutorials and HR analytics case studies
 
